@@ -2,11 +2,11 @@
 
 Soy Naffry Henríquez, estudiante de Desarrollo de Software apasionado por la tecnología, el aprendizaje continuo y la filosofía.
 
-🚀 Sobre mí
-🎓 Estudiante de Desarrollo de Software.
-💻 Interesado en la creación de soluciones tecnológicas innovadoras.
-🌱 Siempre buscando aprender nuevas herramientas y mejorar mis habilidades.
-💭 Mi filosofía de vida
+<h1 aling="center">🚀 Sobre mí
+<h3 aling="center">🎓 Estudiante de Desarrollo de Software.
+<h3 aling="center">💻 Interesado en la creación de soluciones tecnológicas innovadoras.
+<h3 aling="center">🌱 Siempre buscando aprender nuevas herramientas y mejorar mis habilidades.
+<p aling="center">💭 Mi filosofía de vida
 
 "Si el problema tiene solución, ¿de qué te preocupas? Y si no tiene solución, ¿de qué te preocupas?"
 
